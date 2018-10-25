@@ -126,7 +126,7 @@ Once you've created the function, try it with these locations
 ```
 
 **Bonus**: 
-* Write a function that determines the difference between Buckingham Palace and Edinburgh Castle in terms of the number of crimes in each category.
+* Write a function that determines the difference between Buckingham Palace and Manchester in terms of the number of crimes in each category.
     * In which category is there the largest absolute difference between the category of crime?
 * Create a histogram depiction of the categories of crime
 
